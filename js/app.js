@@ -131,7 +131,7 @@ async function initApp() {
             categories.addEventListener("click", function (e) {
                 // e.target.closest("li") its always find li no matter what is inside image and other thing 
                 let dataCategory = e.target.closest("li").dataset.category
-                let filterProductsByCategorey = currentProducts.filter(function (clickCategorey) {
+                let filterProductsByCategorey = products.filter(function (clickCategorey) {
                     return clickCategorey.category === dataCategory
                 })
                 renderProducts(filterProductsByCategorey);
@@ -148,7 +148,7 @@ async function initApp() {
             let ulOfDropDown = document.querySelector(".ulOfDropDown")
             ulOfDropDown.addEventListener("click", function (e) {
                 let dataCategory = e.target.closest("a").dataset.category
-                let filterProductsByCategorey = currentProducts.filter(function (clickCategorey) {
+                let filterProductsByCategorey = products.filter(function (clickCategorey) {
                     return clickCategorey.category === dataCategory
                 })
                 renderProducts(filterProductsByCategorey);
