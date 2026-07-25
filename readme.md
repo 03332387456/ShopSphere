@@ -159,7 +159,7 @@ git clone https://github.com/03332387456/ShopSphere
 
 **AhsanUllah**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/03332387456/ShopSphere
 
 ---
 
