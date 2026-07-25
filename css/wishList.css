@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    background-color: #F8FAFC;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eee7e7;
+    box-shadow: 0 2px 10px rgba(0,0,0,.05);
+}
+
+.Nav-ul {
+    padding-top: 13px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.Nav-ul li {
+    list-style-type: none;
+}
+
+.Nav-ul li a {
+    text-decoration: none; 
+    color: #4d5d75;
+    font-size: 18px;
+    font-weight: 500;
+} 
+
+.Nav-ul li a:hover {
+    color: #2563EB;
+    transition: 0.3s ease-in-out;
+}
+
+.logo {
+    color: blue;
+}
+
+.shop {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.burger{
+    font-size: 20px;
+}
+
+/* --- MOBILE RESPONSIVE FIXES (Below 768px width) --- */
+@media (max-width: 767.98px) {
+    /* Changes main container layout to space-between for mobile line alignment */
+    .nav {
+        justify-content: space-between !important;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    /* Prevents flex items from bunching horizontally */
+    .w-100-mobile {
+        width: 100% !important;
+    }
+
+    /* Stacks navigation links cleanly downward */
+    .Nav-ul {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 0 !important;
+        padding-top: 15px;
+        padding-bottom: 10px;
+        margin: 0;
+    }
+
+    /* Sets structured gaps between mobile menu text entries */
+    .Nav-ul li {
+        width: 100%;
+        padding: 8px 0;
+    }
+      .shop{
+        font-size: 18px;
+        font-weight: 700;
+    }
+}
+
+
+/* .productImage{
+    width: 45px;
+}
+.icons{
+    font-size: 9px;
+    border: 2px solid #61739a;
+    border-radius: 4px;
+    padding: 1px;
+    cursor: pointer;
+}
+
+.cart:hover{
+     color: #2563EB;
+    transition: 0.2s ease-in-out;
+}
+.trashIcon:hover{
+    color: rgb(152, 43, 43);
+    transition: 0.2s ease-in-out;
+}
+.trashIcon , .cart{
+    cursor: pointer;
+} */
+
+
+
+.productImage { 
+  width: 45px; 
+  height: auto;
+  object-fit: contain;
+}
+
+/* Forces table content to stay clean instead of squishing text */
+.table th, .table td {
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.AddtoCartIcon , .removeBtn {
+ border: none;
+ background-color: transparent;
+}
+
+.icons { 
+  font-size: 9px; 
+  border: 2px solid #61739a; 
+  border-radius: 4px; 
+  padding: 1px; 
+  cursor: pointer; 
+} 
+
+.cart:hover { 
+  color: #2563EB; 
+  transition: 0.2s ease-in-out; 
+} 
+
+.trashIcon:hover { 
+  color: rgb(152, 43, 43); 
+  transition: 0.2s ease-in-out; 
+} 
+
+.trashIcon, .cart { 
+  cursor: pointer; 
+}
+
+@media (max-width: 1000px) {
+    .table-responsive{
+        overflow-x: auto;
+        padding: 10px;
+    }
+}
+
+
+
+.footer{
+    background-color: #0F172A;
+} 
+.footer p{
+    color: #CBD5E1;
+}
+.footer h6{
+    color: #CBD5E1;
+}
+.footer .Getconnected{
+     color: #CBD5E1;
+}
+.footer p:hover{
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+.footer .text{
+    color:#CBD5E1; ;
+}
+.last{
+     color: #CBD5E1;
+}

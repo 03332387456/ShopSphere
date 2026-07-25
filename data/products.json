@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 324.48,
+    "description": "High-quality wireless headphones designed for everyday use with durable materials and modern styling.",
+    "category": "Electronics",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/91c4daf8379264a41356357c6d923d41.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 3.8,
+      "count": 316
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cotton T-Shirt",
+    "price": 133.53,
+    "description": "High-quality cotton t-shirt designed for everyday use with durable materials and modern styling.",
+    "category": "Clothing",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/9d5e4ec559376554b204528de9294a52.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.0,
+      "count": 139
+    }
+  },
+  {
+    "id": 3,
+    "title": "Modern Table Lamp",
+    "price": 342.52,
+    "description": "High-quality modern table lamp designed for everyday use with durable materials and modern styling.",
+    "category": "Home",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/00e8aa117a2fc429946662c1b9c1f5ff.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.9,
+      "count": 124
+    }
+  },
+  {
+    "id": 4,
+    "title": "Chef Knife Set",
+    "price": 300.8,
+    "description": "High-quality chef knife set designed for everyday use with durable materials and modern styling.",
+    "category": "Kitchen",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/664662903a0d055eb00b93067954c9f7.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 3.8,
+      "count": 130
+    }
+  },
+  {
+    "id": 5,
+    "title": "Office Chair",
+    "price": 120.82,
+    "description": "High-quality office chair designed for everyday use with durable materials and modern styling.",
+    "category": "Furniture",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/d44fbec49b1e67c7d0de49b199948175.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.4,
+      "count": 62
+    }
+  },
+  {
+    "id": 6,
+    "title": "Skin Care Kit",
+    "price": 286.64,
+    "description": "High-quality skin care kit designed for everyday use with durable materials and modern styling.",
+    "category": "Beauty",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/058897a95109cd878582fa8631deda8b.png_400x400q75.avif",
+    "rating": {
+      "rate": 4.7,
+      "count": 753
+    }
+  },
+  {
+    "id": 7,
+    "title": "Yoga Mat",
+    "price": 278.75,
+    "description": "High-quality yoga mat designed for everyday use with durable materials and modern styling.",
+    "category": "Sports",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/a5316ac70cd82c9e14bda0d84148591c.png_400x400q75.avif",
+    "rating": {
+      "rate": 4.1,
+      "count": 638
+    }
+  },
+  {
+    "id": 8,
+    "title": "Leather Wallet",
+    "price": 149.64,
+    "description": "High-quality leather wallet designed for everyday use with durable materials and modern styling.",
+    "category": "Accessories",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/436beb15c18c06269a4770c06231dbae.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.8,
+      "count": 812
+    }
+  },
+  {
+    "id": 9,
+    "title": "Bluetooth Speaker",
+    "price": 405.02,
+    "description": "High-quality bluetooth speaker designed for everyday use with durable materials and modern styling.",
+    "category": "Electronics",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/05e039fc6480950d3402d13620733f98.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.6,
+      "count": 383
+    }
+  },
+  {
+    "id": 10,
+    "title": "Running Shoes",
+    "price": 149.49,
+    "description": "High-quality running shoes designed for everyday use with durable materials and modern styling.",
+    "category": "shoes",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/246851e9bd0d3af549d5c9bbd7c7d98c.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.1,
+      "count": 816
+    }
+  },
+  {
+    "id": 11,
+    "title": "Coffee Maker",
+    "price": 177.91,
+    "description": "High-quality coffee maker designed for everyday use with durable materials and modern styling.",
+    "category": "Kitchen",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/eeea5eb35820dd3d39dade53a1675a00.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 3.9,
+      "count": 134
+    }
+  },
+  {
+    "id": 12,
+    "title": "Bookshelf",
+    "price": 188.75,
+    "description": "High-quality bookshelf designed for everyday use with durable materials and modern styling.",
+    "category": "wall",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/a1127ded973cb4b5f4f61b0d3815f62e.png_400x400q75.avif",
+    "rating": {
+      "rate": 4.2,
+      "count": 305
+    }
+  },
+  {
+    "id": 13,
+    "title": "Smart Watch",
+    "price": 405.65,
+    "description": "High-quality smart watch designed for everyday use with durable materials and modern styling.",
+    "category": "Accessories",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/24ce05167411a4dd40d4fc937a6a2464.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.7,
+      "count": 584
+    }
+  },
+  {
+    "id": 14,
+    "title": "Backpack",
+    "price": 75.42,
+    "description": "High-quality backpack designed for everyday use with durable materials and modern styling.",
+    "category": "school",
+    "image": "https://img.drz.lazcdn.com/g/kf/Sce4b82b2ca954fac96366c6881cc0eef7.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.9,
+      "count": 115
+    }
+  },
+  {
+    "id": 15,
+    "title": "Air Fryer",
+    "price": 282.19,
+    "description": "High-quality air fryer designed for everyday use with durable materials and modern styling.",
+    "category": "Kitchen",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/980112a91fa7e2d7036ebd20900a9da5.png_400x400q75.avif",
+    "rating": {
+      "rate": 4.8,
+      "count": 668
+    }
+  },
+  {
+    "id": 16,
+    "title": "Desk Organizer",
+    "price": 443.56,
+    "description": "High-quality desk organizer designed for everyday use with durable materials and modern styling.",
+    "category": "Accessories",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/575b16e97807707364fa1c33f9b6e364.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.2,
+      "count": 231
+    }
+  },
+  {
+    "id": 17,
+    "title": "Gaming Mouse",
+    "price": 356.01,
+    "description": "High-quality gaming mouse designed for everyday use with durable materials and modern styling.",
+    "category": "Electronics",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/b135dd4893a76d75dd1b5521d3f840cf.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 3.9,
+      "count": 268
+    }
+  },
+  {
+    "id": 18,
+    "title": "Floor Rug",
+    "price": 389.17,
+    "description": "High-quality floor rug designed for everyday use with durable materials and modern styling.",
+    "category": "Home",
+    "image": "https://img.drz.lazcdn.com/g/kf/Sd380722ac65546e086f29f25d50d5f96I.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 5.0,
+      "count": 910
+    }
+  },
+  {
+    "id": 19,
+    "title": "Water Bottle",
+    "price": 127.67,
+    "description": "High-quality water bottle designed for everyday use with durable materials and modern styling.",
+    "category": "Home",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/4f27daa28d5f614be174fd1e1f15318a.png_400x400q75.avif",
+    "rating": {
+      "rate": 3.9,
+      "count": 319
+    }
+  },
+  {
+    "id": 20,
+    "title": "Travel Suitcase",
+    "price": 234.45,
+    "description": "High-quality travel suitcase designed for everyday use with durable materials and modern styling.",
+    "category": "Travel",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/a698e51f8383357033a4775521e6548a.png_400x400q75.avif",
+    "rating": {
+      "rate": 4.8,
+      "count": 201
+    }
+  },
+  {
+    "id": 21,
+    "title": "LED Monitor",
+    "price": 194.17,
+    "description": "High-quality led monitor designed for everyday use with durable materials and modern styling.",
+    "category": "Gaming",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/bac2ba822f2af98de631f4e5909af880.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.1,
+      "count": 308
+    }
+  },
+  {
+    "id": 22,
+    "title": "Ceramic Vase",
+    "price": 354.68,
+    "description": "High-quality ceramic vase designed for everyday use with durable materials and modern styling.",
+    "category": "Home",
+    "image": "https://img.drz.lazcdn.com/g/kf/Se9d9a7316eda46debc19f393d7364a85v.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.6,
+      "count": 108
+    }
+  },
+  {
+    "id": 23,
+    "title": "Mechanical Keyboard",
+    "price": 309.82,
+    "description": "High-quality mechanical keyboard designed for everyday use with durable materials and modern styling.",
+    "category": "Gaming",
+    "image": "https://img.drz.lazcdn.com/g/kf/S791d5e36fb944f16bce25985bddd6936M.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.0,
+      "count": 781
+    }
+  },
+  {
+    "id": 24,
+    "title": "Sunglasses",
+    "price": 133.49,
+    "description": "High-quality sunglasses designed for everyday use with durable materials and modern styling.",
+    "category": "Accessories",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/d49a5fe26ab0557ac7cf423d14a82e07.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.4,
+      "count": 311
+    }
+  },
+  {
+    "id": 25,
+    "title": "Dining Chair",
+    "price": 493.93,
+    "description": "High-quality dining chair designed for everyday use with durable materials and modern styling.",
+    "category": "Home",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/1c431ea99cf4cec85f5e9fb98425c34c.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.6,
+      "count": 605
+    }
+  },
+  {
+    "id": 26,
+    "title": "Hair Dryer",
+    "price": 121.29,
+    "description": "High-quality hair dryer designed for everyday use with durable materials and modern styling.",
+    "category": "Electronics",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/da1807c690c2e28226cdaffb416fa6bc.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.2,
+      "count": 821
+    }
+  },
+  {
+    "id": 27,
+    "title": "Camping Tent",
+    "price": 390.58,
+    "description": "High-quality camping tent designed for everyday use with durable materials and modern styling.",
+    "category": "Travel",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/30fbba8897e4ae89171fe7f42ea20829.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.1,
+      "count": 67
+    }
+  },
+  {
+    "id": 28,
+    "title": "Wall Clock",
+    "price": 404.64,
+    "description": "High-quality wall clock designed for everyday use with durable materials and modern styling.",
+    "category": "Electronics",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/84c6ac1a1e90188807154e8490f5bf6d.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.3,
+      "count": 102
+    }
+  },
+  {
+    "id": 29,
+    "title": "Laptop Stand",
+    "price": 117.12,
+    "description": "High-quality laptop stand designed for everyday use with durable materials and modern styling.",
+    "category": "Furniture",
+    "image": "https://img.drz.lazcdn.com/static/pk/p/4d9e07fc97614368028f12e5f979be04.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.9,
+      "count": 932
+    }
+  },
+  {
+    "id": 30,
+    "title": "Wireless Charger",
+    "price": 362.47,
+    "description": "High-quality wireless charger designed for everyday use with durable materials and modern styling.",
+    "category": "Electronics",
+    "image": "https://img.drz.lazcdn.com/g/kf/S3649fc5511be436e80d5a8d7b596db18N.jpg_400x400q75.avif",
+    "rating": {
+      "rate": 4.1,
+      "count": 546
+    }
+  }
+]
