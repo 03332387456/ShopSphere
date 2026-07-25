@@ -83,6 +83,7 @@ async function initApp() {
             `
             })
             currentProducts = [...products];
+            
         }
 
 
@@ -138,6 +139,7 @@ async function initApp() {
                 viewDetailsofProduct(products)
                 wishListIcon()
                 cartIcon()
+                window.location.reload()
             })
         }
         categoreyFilter()
